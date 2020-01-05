@@ -30,7 +30,7 @@ curl 'https://raw.githubusercontent.com/93gaurav93/dotfiles/master/.zshrc' > $HO
 curl 'https://raw.githubusercontent.com/93gaurav93/dotfiles/master/.zsh_aliases' > $HOME/.zsh_aliases
 ```
 
-** Install zsh-autosuggestions plugin**
+**Install zsh-autosuggestions plugin**
 
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
